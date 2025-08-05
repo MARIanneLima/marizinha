@@ -36,5 +36,22 @@ header {
     font-family: Arial, sans-serife;
     text-align: center;
     height: 100px;
-    mr
+    margin: 0;
+    boder: none;
+    width: 100%;
+    display: flex;
+    align-itens: center;
+    justify-content: center;
+}
+html, body {
+    margin: 0;
+    padding: 0;
+}
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+    
     
